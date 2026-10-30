@@ -35,7 +35,7 @@ process.on('uncaughtException', (err) => {
 const CONFIG = {
   host: 'gold.magmanode.com',    // ← your server host
   port: 29838,                      // default Minecraft port
-  username: 'uptime',      // must match whitelist in connecto.json
+  username: 'ResenhAFK',      // must match whitelist in connecto.json
   version: '1.21.11',               // Mineflayer protocol definition baseline
   protocolVersion: 775,             // Protocol version for Minecraft 26.1.2
   auth: 'offline',                  // offline-mode session
